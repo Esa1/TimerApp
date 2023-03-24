@@ -1,0 +1,1 @@
+This is a timer app including countdown timer with notes for the project time used to and capable of saving times and notes to localstorage.
